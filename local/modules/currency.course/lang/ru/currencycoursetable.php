@@ -1,0 +1,5 @@
+<?php
+$MESS['CURRENCY_COURSE_ID'] = 'ID';
+$MESS['CURRENCY_COURSE_CODE'] = 'Код валюты';
+$MESS['CURRENCY_COURSE_DATE'] = 'Дата';
+$MESS['CURRENCY_COURSE_COURSE'] = 'Курс';
